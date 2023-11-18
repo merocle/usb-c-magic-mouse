@@ -1,15 +1,12 @@
-# Compute Blade mount solution for 3D printing
-[Article on the official website uplab.pro](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
+# I hacked the Magic Mouse
 
-</br>
+[Article on the official website uplab.pro](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)</br>
 
-[Instagram](https://www.instagram.com/uptime.lab/)
+[Discord](https://discord.gg/2MZjPUU59P)</br>
 
-</br>
+[Instagram](https://www.instagram.com/uptime.lab/)</br>
 
-[Twitter](https://twitter.com/merocle)
-
-</br>
+[Twitter](https://twitter.com/merocle)</br>
 
 ![Hacked Magic Mouse](/images/black-and-white.jpg?raw=true "Hacked Magic Mouse")
 </br>
